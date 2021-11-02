@@ -72,7 +72,7 @@ case prefix+'help': case prefix+'menu':
 melcanz.updatePresence(m.chat, 'composing')
 var menu = `*WHATSAPP BOT*
 
-Author : @melcanz.io
+Author : Aril Store
 Lib : Baileys
 Battery : ${melcanz.battery ? melcanz.battery.value +'%' : 'Belum kedetect'} ${melcanz.battery ? melcanz.battery.live ? '🔌 Charging...' : '⚡ Discharging' : ''}
 
@@ -597,7 +597,7 @@ if (!args[0]) {
 const buttonsMessage = {
     contentText: `Pilih Enable atau Disable
 `.trim(),    
-footerText: `🔰 ${melcanz.user.name} By melcanz🔰`,
+footerText: `🔰 ${melcanz.user.name} By Aril Store🔰`,
     buttons: buttons,
     headerType: 1
 }
@@ -627,7 +627,7 @@ if (!args[0]) {
 const buttonsMessage = {
     contentText: `Pilih Enable atau Disable
 `.trim(),    
-footerText: `🔰 ${melcanz.user.name} By melcanz🔰`,
+footerText: `🔰 ${melcanz.user.name} By Aril Store🔰`,
     buttons: buttons,
     headerType: 1
 }
@@ -657,7 +657,7 @@ if (!args[0]) {
 const buttonsMessage = {
     contentText: `Pilih Enable atau Disable
 `.trim(),    
-footerText: `🔰 ${melcanz.user.name} By melcanz🔰`,
+footerText: `🔰 ${melcanz.user.name} By Aril Store🔰`,
     buttons: buttons,
     headerType: 1
 }
