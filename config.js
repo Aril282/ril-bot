@@ -1,10 +1,10 @@
 let fs = require('fs')
 let chalk = require('chalk')
-global.owner = ['6287755080455', '62882003806038'] // Nomor Owner
+global.owner = ['62881024358619', '62881024358619'] // Nomor Owner
 global.autoread = false // false untuk menonaktifkan autoread, true untuk menyalakan autoread
 global.selfmode = false // false = Mode Publik, true = Mode Self
 global.thumb = './thumb/itsuki.jpg'
-global.fakereplyt = 'Mel-Bot WhatsApp' // Teks Untuk Fake Reply
+global.fakereplyt = 'Aril-Bot WhatsApp' // Teks Untuk Fake Reply
 global.mess = {
 group : {
 welcome : `Welcome @user\n\nSelamat datang di grup @subject`, // Teks Untuk Welcome
@@ -17,7 +17,7 @@ success: 'Sukses...' // Sukses
 }
 global.server = false // true = Manyalakan server Localhost, false = menonaktifkan server Localhost
 global.prefix = '🐤' // Skip, Ga Terlalu Berguna
-global.author = '@melcanz.io' // Nama Author Sticker
+global.author = '@ArilStore' // Nama Author Sticker
 global.packname = 'WhatsApp Bot' // Nama Packname Sticker
 
 
