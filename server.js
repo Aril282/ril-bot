@@ -19,14 +19,14 @@ function connect(conn) {
      personal: totalpc 
          }, 
          author: {
-         instagram: 'https://instagram.com/melcanz.io',
-         github: 'https://github.com/xmell91',
-         youtube: 'https://youtube.com/channel/UCItB34QJeJsqxza5SGlP6bg',
+         instagram: 'https://instagram.com/aril_bae05',
+         github: 'https://github.com/Aril282',
+         youtube: 'https://youtube.com/channel/UCLPjdfA1WqgHLHc3lsn2kmA',
          Rest api: 'https://melcanz.com'
 },
-        source_code: 'https://github.com/xmell91/mel-bot'
+        source_code: 'https://github.com/Aril282'
 })
-    } else res.redirect("https://github.com/xmell91/mel-bot")
+    } else res.redirect("https://github.com/Aril282")
     })
     
  app.listen(PORT, () => console.log('App listened on port', PORT))
